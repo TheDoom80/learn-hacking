@@ -44,30 +44,26 @@
 
 **How to Contribute**
 ---
-1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/Beginners-Guide-to-Ethical-Hacking.git`.
+1. Clone repo and create a new branch: `$ git checkout https://github.com/TheDoom80/learn-hacking.git`.
 2. Make changes and test.
 3. Submit Pull Request with comprehensive description of changes.
 
 **Acknowledgements**
 ---
 
-**CSI SFIT Tech Team 2020 - 2021 :**
-+ Tech Executive : [@HarshMalhotra](https://github.com/harsh2527)
-+ Tech Executive : [@EktaMasrani](https://github.com/ekta18)
-
 <br>
 <p align="center">
-  <a href="https://www.csi.sfit.ac.in/">
+  <a href="https://twitter.com/TheDoom80">
     <img src="https://raw.githubusercontent.com/CSI-SFIT/Getting-Started-With-Hacktoberfest/main/Images/CSI_Logo.png"
          alt="csi_logo" width="300" height="300">
   </a>
 </p>
 
 <div align="center">
-  <a href="https://www.instagram.com/csi_sfit/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://www.instagram.com/thedoom80/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href="https://twitter.com/csi_sfit" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.facebook.com/csi.sfit" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-  <a href="https://www.youtube.com/channel/UC7fiMWl2n3BXDQCKk3blUMA?sub_confirmation=1" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="https://discord.gg/WRgX3WV" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
-  <a href="mailto: csi@sfit.ac.in" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  
+  //<a href="https://www.youtube.com/channel/UC7fiMWl2n3BXDQCKk3blUMA?sub_confirmation=1" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  //<a href="https://discord.gg/WRgX3WV" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
+  <a href="mailto: thedoomofficial80@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </div>
