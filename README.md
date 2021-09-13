@@ -54,8 +54,8 @@
 <br>
 <p align="center">
   <a href="https://twitter.com/TheDoom80">
-    <img src="https://raw.githubusercontent.com/CSI-SFIT/Getting-Started-With-Hacktoberfest/main/Images/CSI_Logo.png"
-         alt="csi_logo" width="300" height="300">
+    <img src="https://drive.google.com/file/d/1YaHg3fVZ6ZaGpbZzg7fVXSKoSHPKh8zd/view?usp=sharing"
+         alt="logo" width="300" height="300">
   </a>
 </p>
 
