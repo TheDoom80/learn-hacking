@@ -62,8 +62,8 @@
 <div align="center">
   <a href="https://www.instagram.com/thedoom80/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href="https://twitter.com/csi_sfit" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  
+  <a href="mailto: thedoomofficial80@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
   <!-- <a href="https://www.youtube.com/channel/UC7fiMWl2n3BXDQCKk3blUMA?sub_confirmation=1" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
   <a href="https://discord.gg/WRgX3WV" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a> -->
-  <a href="mailto: thedoomofficial80@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  
 </div>
