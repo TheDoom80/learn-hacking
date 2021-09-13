@@ -54,7 +54,7 @@
 <br>
 <p align="center">
   <a href="https://twitter.com/TheDoom80">
-    <img src="https://drive.google.com/file/d/1YaHg3fVZ6ZaGpbZzg7fVXSKoSHPKh8zd/view?usp=sharing"
+    <img src="https://pbs.twimg.com/media/E_LKbFCVEAMBeHg?format=png&name=small"
          alt="logo" width="300" height="300">
   </a>
 </p>
